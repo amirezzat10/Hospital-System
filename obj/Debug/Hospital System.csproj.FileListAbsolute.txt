@@ -1,0 +1,200 @@
+c:\users\fady farag\documents\visual studio 2015\Projects\Hospital System\Hospital System\bin\Debug\Hospital System.exe.config
+c:\users\fady farag\documents\visual studio 2015\Projects\Hospital System\Hospital System\bin\Debug\Hospital System.exe
+c:\users\fady farag\documents\visual studio 2015\Projects\Hospital System\Hospital System\bin\Debug\Hospital System.pdb
+c:\users\fady farag\documents\visual studio 2015\Projects\Hospital System\Hospital System\obj\Debug\Hospital System.csprojResolveAssemblyReference.cache
+c:\users\fady farag\documents\visual studio 2015\Projects\Hospital System\Hospital System\obj\Debug\Hospital_System.Form1.resources
+c:\users\fady farag\documents\visual studio 2015\Projects\Hospital System\Hospital System\obj\Debug\Hospital_System.Properties.Resources.resources
+c:\users\fady farag\documents\visual studio 2015\Projects\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.GenerateResource.Cache
+c:\users\fady farag\documents\visual studio 2015\Projects\Hospital System\Hospital System\obj\Debug\Hospital System.exe
+c:\users\fady farag\documents\visual studio 2015\Projects\Hospital System\Hospital System\obj\Debug\Hospital System.pdb
+c:\users\fady farag\documents\visual studio 2015\Projects\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Docking.dll
+c:\users\fady farag\documents\visual studio 2015\Projects\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+c:\users\fady farag\documents\visual studio 2015\Projects\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+c:\users\fady farag\documents\visual studio 2015\Projects\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+c:\users\fady farag\documents\visual studio 2015\Projects\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+c:\users\fady farag\documents\visual studio 2015\Projects\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+c:\users\fady farag\documents\visual studio 2015\Projects\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+c:\users\fady farag\documents\visual studio 2015\Projects\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+c:\users\fady farag\documents\visual studio 2015\Projects\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+c:\users\fady farag\documents\visual studio 2015\Projects\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Asem_\Desktop\Hospital System\Hospital System\Hospital System\bin\Debug\Hospital System.exe.config
+C:\Users\Asem_\Desktop\Hospital System\Hospital System\Hospital System\bin\Debug\Hospital System.exe
+C:\Users\Asem_\Desktop\Hospital System\Hospital System\Hospital System\bin\Debug\Hospital System.pdb
+C:\Users\Asem_\Desktop\Hospital System\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Asem_\Desktop\Hospital System\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Asem_\Desktop\Hospital System\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Asem_\Desktop\Hospital System\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Asem_\Desktop\Hospital System\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Asem_\Desktop\Hospital System\Hospital System\Hospital System\obj\Debug\Hospital System.csprojAssemblyReference.cache
+C:\Users\Asem_\Desktop\Hospital System\Hospital System\Hospital System\obj\Debug\Hospital_System.Form1.resources
+C:\Users\Asem_\Desktop\Hospital System\Hospital System\Hospital System\obj\Debug\Hospital_System.Properties.Resources.resources
+C:\Users\Asem_\Desktop\Hospital System\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.GenerateResource.cache
+C:\Users\Asem_\Desktop\Hospital System\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.CoreCompileInputs.cache
+C:\Users\Asem_\Desktop\Hospital System\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.CopyComplete
+C:\Users\Asem_\Desktop\Hospital System\Hospital System\Hospital System\obj\Debug\Hospital System.exe
+C:\Users\Asem_\Desktop\Hospital System\Hospital System\Hospital System\obj\Debug\Hospital System.pdb
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\bin\Debug\Hospital System.exe.config
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital System.exe
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital System.pdb
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\bin\Debug\Hospital System.exe
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\bin\Debug\Hospital System.pdb
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Docking.dll
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital_System.Form1.resources
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital_System.Properties.Resources.resources
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.GenerateResource.Cache
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital_System.Form2.resources
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital_System.Doctor.resources
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital_System.Department.resources
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital_System.patient.resources
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital_System.DocDeleteUserCon.resources
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital_System.DocInsertUserCon.resources
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital_System.DSearchUserCon.resources
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital_System.DoctorImage1.resources
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital_System.DUpdateUserControl1.resources
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital_System.PDeleteUserControl1.resources
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital_System.PInsertUserControl1.resources
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital_System.PSearchUserControl1.resources
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital_System.PUpdateUserControl1.resources
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital_System.PImageUserControl1.resources
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital_System.DepDeleteUserControl1.resources
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital_System.DepInsertUserControl1.resources
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital_System.DepSearchUserControl1.resources
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital_System.DepUpdateUserControl1.resources
+D:\Computer science\Third Year\First Semster\Database\projects\Hospital System\Hospital System\obj\Debug\Hospital_System.DepImageUserControl1.resources
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\bin\Debug\Hospital System.exe.config
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\bin\Debug\Hospital System.exe
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\bin\Debug\Hospital System.pdb
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.csprojAssemblyReference.cache
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.Department.resources
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DepDeleteUserControl1.resources
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DepImageUserControl1.resources
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DepInsertUserControl1.resources
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DepSearchUserControl1.resources
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DepUpdateUserControl1.resources
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DocDeleteUserCon.resources
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DocInsertUserCon.resources
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.Doctor.resources
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DoctorImage1.resources
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DSearchUserCon.resources
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DUpdateUserControl1.resources
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.patient.resources
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.PDeleteUserControl1.resources
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.PImageUserControl1.resources
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.PInsertUserControl1.resources
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.Properties.Resources.resources
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.PSearchUserControl1.resources
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.PUpdateUserControl1.resources
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.GenerateResource.cache
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.CoreCompileInputs.cache
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.CopyComplete
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.exe
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.pdb
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.Login.resources
+C:\Users\Asem_\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.SubSystems.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\bin\Debug\Hospital System.exe
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\bin\Debug\Hospital System.exe.config
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.SuggestedBindingRedirects.cache
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.Department.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DepDeleteUserControl1.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DepImageUserControl1.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DepInsertUserControl1.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DepSearchUserControl1.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DepUpdateUserControl1.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DocDeleteUserCon.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DocInsertUserCon.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.Doctor.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DoctorImage1.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DSearchUserCon.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DUpdateUserControl1.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.Login.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.SubSystems.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.patient.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.PDeleteUserControl1.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.PImageUserControl1.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.PInsertUserControl1.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.Properties.Resources.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.PSearchUserControl1.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.PUpdateUserControl1.resources
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.GenerateResource.cache
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.CoreCompileInputs.cache
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.CopyComplete
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.exe
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.pdb
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.AssemblyReference.cache
+C:\Users\m\Desktop\Hospital Systemfff\Hospital System\Hospital System\bin\Debug\Hospital System.pdb
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\bin\Debug\Hospital System.exe.config
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\bin\Debug\Hospital System.exe
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\bin\Debug\Hospital System.pdb
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.AssemblyReference.cache
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.SuggestedBindingRedirects.cache
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.Department.resources
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DepDeleteUserControl1.resources
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DepImageUserControl1.resources
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DepInsertUserControl1.resources
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DepSearchUserControl1.resources
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DepUpdateUserControl1.resources
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DocDeleteUserCon.resources
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DocInsertUserCon.resources
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.Doctor.resources
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DoctorImage1.resources
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DSearchUserCon.resources
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DUpdateUserControl1.resources
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.Login.resources
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.SubSystems.resources
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.patient.resources
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.PDeleteUserControl1.resources
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.PImageUserControl1.resources
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.PInsertUserControl1.resources
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.Properties.Resources.resources
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.PSearchUserControl1.resources
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.PUpdateUserControl1.resources
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.GenerateResource.cache
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.CoreCompileInputs.cache
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.CopyComplete
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.exe
+D:\Computer Science\Third Year\First Semster\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.pdb
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\bin\Debug\Hospital System.exe.config
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\bin\Debug\Hospital System.exe
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\bin\Debug\Hospital System.pdb
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.AssemblyReference.cache
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.SuggestedBindingRedirects.cache
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.Department.resources
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DepDeleteUserControl1.resources
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DepImageUserControl1.resources
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DepInsertUserControl1.resources
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DepSearchUserControl1.resources
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DepUpdateUserControl1.resources
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DocDeleteUserCon.resources
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DocInsertUserCon.resources
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.Doctor.resources
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DoctorImage1.resources
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DSearchUserCon.resources
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.DUpdateUserControl1.resources
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.Login.resources
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.SubSystems.resources
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.patient.resources
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.PDeleteUserControl1.resources
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.PImageUserControl1.resources
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.PInsertUserControl1.resources
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.Properties.Resources.resources
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.PSearchUserControl1.resources
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital_System.PUpdateUserControl1.resources
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.GenerateResource.cache
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.CoreCompileInputs.cache
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.csproj.CopyComplete
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.exe
+G:\Projects\Database\Hospital Systemfff\Hospital System\Hospital System\obj\Debug\Hospital System.pdb

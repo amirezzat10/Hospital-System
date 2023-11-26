@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B1747791-0742-4C22-8A88-5EE6D3BE43A0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Hospital_System</RootNamespace>
+    <AssemblyName>Hospital System</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ComponentFactory.Krypton.Docking">
+      <HintPath>D:\Computer science\Third Year\First Semster\Database\projects\Krypton-master\Bin\ComponentFactory.Krypton.Docking.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Navigator">
+      <HintPath>D:\Computer science\Third Year\First Semster\Database\projects\Krypton-master\Bin\ComponentFactory.Krypton.Navigator.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Ribbon">
+      <HintPath>D:\Computer science\Third Year\First Semster\Database\projects\Krypton-master\Bin\ComponentFactory.Krypton.Ribbon.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Toolkit">
+      <HintPath>D:\Computer science\Third Year\First Semster\Database\projects\Krypton-master\Bin\ComponentFactory.Krypton.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Workspace">
+      <HintPath>D:\Computer science\Third Year\First Semster\Database\projects\Krypton-master\Bin\ComponentFactory.Krypton.Workspace.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dep\Department.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dep\Department.Designer.cs">
+      <DependentUpon>Department.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dep\DepDeleteUserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dep\DepDeleteUserControl1.Designer.cs">
+      <DependentUpon>DepDeleteUserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dep\DepImageUserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dep\DepImageUserControl1.Designer.cs">
+      <DependentUpon>DepImageUserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dep\DepInsertUserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dep\DepInsertUserControl1.Designer.cs">
+      <DependentUpon>DepInsertUserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dep\DepSearchUserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dep\DepSearchUserControl1.Designer.cs">
+      <DependentUpon>DepSearchUserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dep\DepUpdateUserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Dep\DepUpdateUserControl1.Designer.cs">
+      <DependentUpon>DepUpdateUserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doc\DocDeleteUserCon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Doc\DocDeleteUserCon.Designer.cs">
+      <DependentUpon>DocDeleteUserCon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doc\DocInsertUserCon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Doc\DocInsertUserCon.Designer.cs">
+      <DependentUpon>DocInsertUserCon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doc\Doctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doc\Doctor.Designer.cs">
+      <DependentUpon>Doctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doc\DoctorImage1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Doc\DoctorImage1.Designer.cs">
+      <DependentUpon>DoctorImage1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doc\DSearchUserCon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Doc\DSearchUserCon.Designer.cs">
+      <DependentUpon>DSearchUserCon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doc\DUpdateUserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Doc\DUpdateUserControl1.Designer.cs">
+      <DependentUpon>DUpdateUserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubSystems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SubSystems.Designer.cs">
+      <DependentUpon>SubSystems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patient\patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patient\patient.Designer.cs">
+      <DependentUpon>patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patient\PDeleteUserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Patient\PDeleteUserControl1.Designer.cs">
+      <DependentUpon>PDeleteUserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patient\PImageUserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Patient\PImageUserControl1.Designer.cs">
+      <DependentUpon>PImageUserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patient\PInsertUserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Patient\PInsertUserControl1.Designer.cs">
+      <DependentUpon>PInsertUserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Patient\PSearchUserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Patient\PSearchUserControl1.Designer.cs">
+      <DependentUpon>PSearchUserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patient\PUpdateUserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Patient\PUpdateUserControl1.Designer.cs">
+      <DependentUpon>PUpdateUserControl1.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Dep\Department.resx">
+      <DependentUpon>Department.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dep\DepDeleteUserControl1.resx">
+      <DependentUpon>DepDeleteUserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dep\DepImageUserControl1.resx">
+      <DependentUpon>DepImageUserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dep\DepInsertUserControl1.resx">
+      <DependentUpon>DepInsertUserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dep\DepSearchUserControl1.resx">
+      <DependentUpon>DepSearchUserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dep\DepUpdateUserControl1.resx">
+      <DependentUpon>DepUpdateUserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doc\DocDeleteUserCon.resx">
+      <DependentUpon>DocDeleteUserCon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doc\DocInsertUserCon.resx">
+      <DependentUpon>DocInsertUserCon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doc\Doctor.resx">
+      <DependentUpon>Doctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doc\DoctorImage1.resx">
+      <DependentUpon>DoctorImage1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doc\DSearchUserCon.resx">
+      <DependentUpon>DSearchUserCon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doc\DUpdateUserControl1.resx">
+      <DependentUpon>DUpdateUserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SubSystems.resx">
+      <DependentUpon>SubSystems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patient\patient.resx">
+      <DependentUpon>patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patient\PDeleteUserControl1.resx">
+      <DependentUpon>PDeleteUserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patient\PImageUserControl1.resx">
+      <DependentUpon>PImageUserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patient\PInsertUserControl1.resx">
+      <DependentUpon>PInsertUserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Patient\PSearchUserControl1.resx">
+      <DependentUpon>PSearchUserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patient\PUpdateUserControl1.resx">
+      <DependentUpon>PUpdateUserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red-circle-on-white-background-260nw-611456321.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yellow circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red_Circle%28small%29.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red_Circle%28small%29resize.svg %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red_Circle%28small%29resss.svg %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red_Circle%28small%291515.svg %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lacmta-circle-gold-line1515-818979 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ski-trail-rating-symbol-green-circle1515-832006 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_patient2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_department1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\animated-doctor-animated-pictures-of-a-doctor-11562922665japjgbanai1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\293d3dd0ab29914036b8576181ae17c7.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\293d3dd0ab29914036b8576181ae17c71.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e937813383cfce2831a678dda5195260.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
